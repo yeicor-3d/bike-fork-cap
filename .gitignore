@@ -1,0 +1,14 @@
+
+# IDE
+/*.iml
+/.idea/
+
+# Outputs
+/*.stl
+/*.step
+/*.glb
+!/reference.glb
+
+# Python
+/venv/
+/__pycache__/
